@@ -6,10 +6,4 @@ deepDrone is a program that will record footage of drones in the game rainbow si
 
 Uses object detection and AI to detect, trigger events, and eventually be fully autonomous.
 
-# To-Do
-- Record Drone footage with python and openCV, stop after drone phase
-- Auto-Detect Drone and record when using it
-- Take pictures of all rainbow six siege maps from top-down perspective
-- Annotate pathfinding routes for drones using data
-- Detect defenders from drone footage (object detection)
-- add Reinforcement learning mode where the AI learns to find operators by itself (openai playground possibly)
+# UPDATE: R6 Has a replay system now, this project is useless and discontinued.
